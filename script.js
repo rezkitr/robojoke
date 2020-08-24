@@ -13,7 +13,7 @@ function tellJoke(joke) {
     src: joke,
     hl: "en-us",
     v: "Mike",
-    r: 1,
+    r: 0,
     c: "mp3",
     f: "44khz_16bit_stereo",
     ssml: false,
